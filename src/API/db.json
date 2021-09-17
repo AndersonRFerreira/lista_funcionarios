@@ -1,0 +1,74 @@
+{
+ "employees":[
+      {
+         "picture": "https://icons-for-free.com/iconfiles/png/512/boy+character+man+user+icon-1320085976934394387.png" ,
+         "name": "Anderson Reis",
+         "position": "front End Jr",
+         "admission":" 15/09/2021",
+         "phone": "+55(24)98841-4077"
+      },
+      {
+         "picture": "https://icons-for-free.com/iconfiles/png/512/boy+character+man+user+icon-1320085976934394387.png" ,
+         "name": "Luan França Vieira",
+         "position": "Head of Front End",
+         "admission":" 01/01/2015",
+         "phone": "+55(53)00000-0000"
+      },
+      {
+         "picture": "https://icons-for-free.com/iconfiles/png/512/boy+character+man+user+icon-1320085976934394387.png" ,
+         "name": "Marcos Echevarria",
+         "position": "CTO",
+         "admission":" 01/01/2010",
+         "phone": "+55(53) 00000-0000"
+      },
+      {
+         "picture": "https://icons-for-free.com/iconfiles/png/512/lady+user+woman+icon-1320166690474945654.png" ,
+         "name": "Julia Junqueira",
+         "position": "Front End Developer",
+         "admission":" 01/01/2018",
+         "phone": "+55(53)00000-0000"
+      },
+      {
+         "picture": "https://icons-for-free.com/iconfiles/png/512/boy+character+man+user+icon-1320085976934394387.png" ,
+         "name": "Cassiano Thurow",
+         "position": "Front end Developer",
+         "admission":" 01/001/2019",
+         "phone": "+55(53) 00000-0000"
+      },
+      {
+         "picture": "https://icons-for-free.com/iconfiles/png/512/boy+character+man+user+icon-1320085976934394387.png" ,
+         "name": "Marcos Echevarria",
+         "position": "CTO",
+         "admission":" 15/09/2021",
+         "phone": "+55(53) 00000-0000"
+      },
+      {
+         "picture": "https://icons-for-free.com/iconfiles/png/512/boy+character+man+user+icon-1320085976934394387.png" ,
+         "name": "Pietro Klug",
+         "position": "Back End Developer",
+         "admission":" 01/01/2013",
+         "phone": "+55(53) 00000-0000"
+      },
+      {
+         "picture": "https://icons-for-free.com/iconfiles/png/512/boy+character+man+user+icon-1320085976934394387.png" ,
+         "name": "Isaí Tavares",
+         "position": "Back End developer",
+         "admission":" 01/01/2016",
+         "phone": "+55(53)00000-0000"
+      },
+      {
+         "picture": "https://icons-for-free.com/iconfiles/png/512/boy+character+man+user+icon-1320085976934394387.png"  ,
+         "name": "Rafael teixeira",
+         "position": "Front end Intern",
+         "admission":" 01/01/2011",
+         "phone": "+55(22) 00000-0000"
+      },
+      {
+         "picture": "https://icons-for-free.com/iconfiles/png/512/boy+character+man+user+icon-1320085976934394387.png" ,
+         "name": "Thales Cezar Castrp",
+         "position": "Head of Back End",
+         "admission":" 01/01/2014",
+         "phone": "+55(24) 988414077"
+      }
+  ]   
+ }
